@@ -1,9 +1,8 @@
-#!/bin/sh
-
+#this is a random addition mostly just to change the hashcode
 #######
 # The purpose of the lab are to learn:
 # * implementing loops
-# * reading from standard input
+X# * reading from standard input
 # * checking input parameters
 # * checking condition
 #######
